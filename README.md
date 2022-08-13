@@ -3,7 +3,7 @@ Hello, this is my third project on <a href="https://www.start2impact.it/">start2
 
 The purpose is to make it easy to access to life scores on a chosen city of interest. In order to do so, an API was used. The external service used here is <a href="https://developers.teleport.org/api/">Teleport</a>.
 
-You can try this project <a href="">here</a>.
+You can try this project <a href="https://city-pollution-s2i.netlify.app/">here</a>.
 
 # How to use
 This project is so easy to use. You have to add your favourite city in the search bar and city's scores will appear.
