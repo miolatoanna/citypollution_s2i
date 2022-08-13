@@ -9,23 +9,23 @@ You can try this project <a href="">here</a>.
 This project is so easy to use. You have to add your favourite city in the search bar and city's scores will appear.
 
 Information included is a little summary and these scores of:
-<ol>Housing
-<ol>Cost of Living
-<ol>Startups
-<ol>Venture Capital
-<ol>Travel Connectivity
-<ol>Commute
-<ol>Business Freedom
-<ol>Safety
-<ol>Healthcare
-<ol>Education
-<ol>Environmental Quality
-<ol>Economy
-<ol>Taxation
-<ol>Internet Access
-<ol>Leisure & Culture
-<ol>Tolerance
-<ol>Outdoors
+- Housing
+- Cost of Living
+- Startups
+- Venture Capital
+- Travel Connectivity
+- Commute
+- Business Freedom
+- Safety
+- Healthcare
+- Education
+- Environmental Quality
+- Economy
+- Taxation
+- Internet Access
+- Leisure & Culture
+- Tolerance
+- Outdoors
 
 p.s. Pay attention, you can't find all city. This doesn't depend on my project, but on the external service used and the material they provide.
 
@@ -38,9 +38,9 @@ I used CSS and some Bootstrap to fixed a little bit of style, but for the majori
 # Credits
 I have to thank some people for this project.
 
-<ol>First, the community of start2impact because some of them help me a lot! Thanks guys!
-<ol>The image of Vienna is from Pexels.
-<ol>The font I used are called Poppins, from Google Fonts.
+- First, the community of start2impact because some of them help me a lot! Thanks guys!
+- The image of Vienna is from Pexels.
+- The font I used are called Poppins, from Google Fonts.
 
 
 If you have any suggestions, please feel free to contact me. Thank you.
